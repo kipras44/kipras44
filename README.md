@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there.
+
+## I am a newly minted MERN stack Web Developer looking to learn as much as I can. Feel free to drop me a message about collaborating, or if there's anything you wish you would have learned when you first got into tech, feel free to share.
+
+## Thank you and good luck.
 
 <!--
 **kipras44/kipras44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

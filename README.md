@@ -1,6 +1,6 @@
 ### Hello there.
 
-## I am a newly minted MERN stack Web Developer looking to learn as much as I can. Feel free to drop me a message about collaborating, or if there's anything you wish you would have learned when you first got into tech, feel free to share.
+## I am a newly minted MERN stack Developer. Currently, I'm working on learning as much as I can about the Front End, and using this knowledge to land my first tech role. After that I plan to expand my knowledge to a more well rounded understanding of both Front End and Back End technologies. Feel free to drop me a message about collaborating, or if there's anything you wish you would have learned when you first got into tech, please feel free to share. 
 
 ## Thank you and good luck.
 
